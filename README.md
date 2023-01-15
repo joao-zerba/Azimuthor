@@ -15,3 +15,15 @@ vizualised and selected for exportation. The data are stored in hdf5 and dat fil
 Developers: 
 Paulo Ricardo Garcia <pauloricardoafg@yahoo.com.br>
 João Paulo Castro Zerba <joao.p.c.zerba@outlook.com>
+
+References:
+Fast Azimuthal Integration using Python. Available on https://pyfai.readthedocs.io/en/master/.
+Accessed on May 12
+th
+,2022
+Ashiotis, G., Deschildre, A., Nawaz, Z., Wright, J. P., Karkoulis, D., Picca, F. E., & Kieffer, J. (2015).
+The fast azimuthal integration Python library: pyFAI. Journal of applied crystallography, 48(2), 510-519.
+Hammersley, A. P. (2016). FIT2D: a multi-purpose data reduction, analysis and visualization
+program. Journal of Applied Crystallography, 49(2), 646-652.
+Kieffer, J., & Karkoulis, D. (2013, March). PyFAI, a versatile library for azimuthal regrouping. In Journal
+of Physics: Conference Series (Vol. 425, No. 20, p. 202012). IOP Publishing.
