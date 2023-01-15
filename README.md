@@ -1,4 +1,4 @@
-# azimuthor
+# Azimuthor
 Azimuthal Integrator Software
 
 <p>Azimuthor is a graphical user interface (GUI) for azimuthal average of Xray/neutron/electron 
