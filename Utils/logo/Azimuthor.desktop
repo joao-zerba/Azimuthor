@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Version=1.0
+Name=Azimuthor
+Exec=Azimuthor %U
+Icon=/usr/local/scripts/saxs-project/Utils/logo/azimuthor_logo.png
+Categories=Utility
