@@ -12,9 +12,9 @@ HDF5, H5, CXI, NPY and Tiff.</p>
 with multiple files. It has an interactive display in which the integrated curves may be
 vizualised and selected for exportation. The data are stored in hdf5 and dat files.</p>
 
-Developers: 
-<p>Paulo Ricardo Garcia <pauloricardoafg@yahoo.com.br></p>
-<p>João Paulo Castro Zerba <joao.p.c.zerba@outlook.com></p>
+Developers:
+Paulo Ricardo Garcia <pauloricardoafg@yahoo.com.br>
+João Paulo Castro Zerba <joao.p.c.zerba@outlook.com>
 
 
 **References:
