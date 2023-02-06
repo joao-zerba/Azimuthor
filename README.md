@@ -13,7 +13,9 @@ with multiple files. It has an interactive display in which the integrated curve
 vizualised and selected for exportation. The data are stored in hdf5 and dat files.</p>
 
 Developers:
+
 Paulo Ricardo Garcia <pauloricardoafg@yahoo.com.br>
+
 João Paulo Castro Zerba <joao.p.c.zerba@outlook.com>
 
 
