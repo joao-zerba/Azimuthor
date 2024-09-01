@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 #Authors: 
-# Paulo Ricardo Garcia, paulo.garcia@lnls.br
+# Paulo Ricardo Garcia, pauloricardoafg@gmail.com
 # Joao Paulo Castro Zerba, joao.zerba@lnls.br
 # Software to perform azimuthal integration of scattering images using pyFAI python library.
 #Date: 22/11/2021
